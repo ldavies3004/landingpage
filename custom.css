@@ -10,4 +10,9 @@ p {
     line-height: 25px;
 }
 
+.dark {
+    background-image:url('binding_dark.png');
+    background-repeat:repeat-x;
+}
+
 
