@@ -6,13 +6,12 @@ h1 {
  
 p {
     font-family: 'Cabin', Helvetica, Arial, sans-serif;
-    font-size: 15px;
-    line-height: 25px;
+    font-size: 25px;
+    line-height: 50px;
 }
 
 .dark {
     background-image:url('binding_dark.png');
-    background-repeat:repeat-x;
 }
 
 
